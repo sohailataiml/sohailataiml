@@ -18,7 +18,7 @@
 ```python
 class SohailaTaiml:
     def __init__(self):
-        self.name        = "Sohaila Taiml"
+        self.name        = "Sohail Siddiqui"
         self.username    = "sohailataiml"
         self.roles       = [
             "Data Scientist",
